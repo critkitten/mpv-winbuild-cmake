@@ -79,7 +79,7 @@ ExternalProject_Add(ffmpeg
         --enable-libssh
         --enable-libsrt
         --enable-libvpl
-        --enable-libjxl
+        --disable-libjxl
         --enable-libplacebo
         --enable-cuda
         --enable-cuvid
