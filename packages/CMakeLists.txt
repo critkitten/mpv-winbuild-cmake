@@ -45,7 +45,6 @@ list(APPEND ep
     libxml2
     libvpl
     amf-headers
-    avisynth-headers
     nvcodec-headers
     libmysofa
     aom

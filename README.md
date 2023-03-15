@@ -63,7 +63,6 @@ Alternatively, you can download the builds from [here](https://sourceforge.net/p
     - curl
     - libxml2
     - amf-headers
-    - avisynth-headers
     - nvcodec-headers
     - libvpl
     - megasdk (with termcap, readline, cryptopp, sqlite, libuv, libsodium)
