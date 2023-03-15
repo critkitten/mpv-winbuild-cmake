@@ -37,7 +37,6 @@ list(APPEND ep
     mbedtls
     libxml2
     libvpl
-    amf-headers
     nvcodec-headers
     libmysofa
     aom

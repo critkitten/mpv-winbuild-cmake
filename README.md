@@ -56,7 +56,6 @@ Alternatively, you can download the builds from [here](https://sourceforge.net/p
     - nettle
     - curl
     - libxml2
-    - amf-headers
     - nvcodec-headers
     - libvpl
     - megasdk (with termcap, readline, cryptopp, sqlite, libuv, libsodium)
