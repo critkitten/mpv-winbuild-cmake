@@ -4,8 +4,6 @@ ExternalProject_Add(mpv
         fribidi
         lcms2
         libass
-        libdvdnav
-        libdvdread
         libiconv
         libjpeg
         libpng
@@ -18,7 +16,6 @@ ExternalProject_Add(mpv
         shaderc
         libplacebo
         spirv-cross
-        vapoursynth
         libsdl2
     GIT_REPOSITORY https://github.com/mpv-player/mpv.git
     SOURCE_DIR ${SOURCE_LOCATION}
