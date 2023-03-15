@@ -52,7 +52,6 @@ Alternatively, you can download the builds from [here](https://sourceforge.net/p
     - flac
     - opus-tools
     - mujs
-    - libarchive
     - libjpeg
     - shaderc (with spirv-headers, spirv-tools, glslang)
     - vulkan-header
