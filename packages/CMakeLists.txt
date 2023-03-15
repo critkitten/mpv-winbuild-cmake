@@ -41,8 +41,6 @@ list(APPEND ep
     libsrt
     libopenmpt
     brotli
-    uavs3d
-    davs2
     mujs
     spirv-headers
     spirv-tools

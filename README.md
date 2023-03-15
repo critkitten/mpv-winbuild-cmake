@@ -59,8 +59,6 @@ Alternatively, you can download the builds from [here](https://sourceforge.net/p
     - libplacebo (with glad)
     - fontconfig
     - libsrt
-    - uavs3d
-    - davs2
     - libdovi
     - libva
 

@@ -27,9 +27,6 @@ ExternalProject_Add(ffmpeg
         libplacebo
         aom
         dav1d
-        vapoursynth
-        uavs3d
-        davs2
     GIT_REPOSITORY https://github.com/FFmpeg/FFmpeg.git
     SOURCE_DIR ${SOURCE_LOCATION}
     GIT_CLONE_FLAGS "--filter=tree:0"
@@ -68,8 +65,8 @@ ExternalProject_Add(ffmpeg
         --enable-libx265
         --enable-libaom
         --enable-libdav1d
-        --enable-libdavs2
-        --enable-libuavs3d
+        --disable-libdavs2
+        --disable-libuavs3d
         --disable-libxvid
         --enable-libzimg
         --enable-mbedtls
