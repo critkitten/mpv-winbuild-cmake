@@ -30,10 +30,8 @@ list(APPEND ep
     fribidi
     expat
     nettle
-    libarchive
     freetype2
     libudfread
-    libbluray
     harfbuzz
     libsoxr
     graphengine
