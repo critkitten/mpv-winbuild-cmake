@@ -64,7 +64,6 @@ Alternatively, you can download the builds from [here](https://sourceforge.net/p
     - libmodplug
     - uavs3d
     - davs2
-    - libsixel
     - libdovi
     - libva
 
