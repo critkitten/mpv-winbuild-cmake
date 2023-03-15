@@ -13,7 +13,6 @@ list(APPEND ep
     ogg
     vorbis
     opus
-    libmodplug
     libvpx
     libpng
     x264
