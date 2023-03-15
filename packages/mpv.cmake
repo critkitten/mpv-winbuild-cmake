@@ -40,7 +40,7 @@ ExternalProject_Add(mpv
         -Dlua=enabled
         -Djavascript=enabled
         -Dsdl2=enabled
-        -Dlibarchive=enabled
+        -Dlibarchive=disabled
         -Dlibbluray=enabled
         -Ddvdnav=enabled
         -Duchardet=enabled
