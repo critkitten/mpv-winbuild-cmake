@@ -25,8 +25,6 @@ list(APPEND ep
     freetype2
     libudfread
     harfbuzz
-    graphengine
-    libzimg
     fontconfig
     libunibreak
     libass
