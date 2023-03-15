@@ -40,7 +40,6 @@ Alternatively, you can download the builds from [here](https://sourceforge.net/p
     - libdvdnav
     - libdvdcss
     - libudfread
-    - libbluray
     - libunibreak
     - libass
     - libmysofa
