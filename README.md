@@ -36,9 +36,6 @@ Alternatively, you can download the builds from [here](https://sourceforge.net/p
     - libpng
     - libsoxr
     - libzimg (with graphengine)
-    - libdvdread
-    - libdvdnav
-    - libdvdcss
     - libudfread
     - libunibreak
     - libass
