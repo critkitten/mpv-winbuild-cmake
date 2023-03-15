@@ -56,7 +56,6 @@ Alternatively, you can download the builds from [here](https://sourceforge.net/p
     - libxml2
     - nvcodec-headers
     - libvpl
-    - megasdk (with termcap, readline, cryptopp, sqlite, libuv, libsodium)
     - aom
     - dav1d
     - libplacebo (with glad)

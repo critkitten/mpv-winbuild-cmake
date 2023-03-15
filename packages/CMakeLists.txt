@@ -80,7 +80,6 @@ list(APPEND ep
     sqlite
     libuv
     libsodium
-    megasdk
 )
 foreach(package IN LISTS ep)
     if(NOT ${SINGLE_SOURCE_LOCATION} STREQUAL "")
