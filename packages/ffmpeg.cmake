@@ -8,21 +8,16 @@ ExternalProject_Add(ffmpeg
         libsrt
         libass
         libpng
-        libsoxr
-        libbs2b
         libvpx
         libwebp
         libzimg
         opus
-        speex
         vorbis
         x264
         x265-10bit
-        xvidcore
         libxml2
         libvpl
         libopenmpt
-        libjxl
         libplacebo
         aom
         dav1d
