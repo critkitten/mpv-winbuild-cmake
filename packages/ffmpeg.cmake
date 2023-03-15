@@ -15,7 +15,6 @@ ExternalProject_Add(ffmpeg
         libvpx
         libwebp
         libzimg
-        libmysofa
         opus
         speex
         vorbis
@@ -76,7 +75,7 @@ ExternalProject_Add(ffmpeg
         --enable-libzimg
         --enable-mbedtls
         --enable-libxml2
-        --enable-libmysofa
+        --disable-libmysofa
         --enable-libssh
         --enable-libsrt
         --enable-libvpl

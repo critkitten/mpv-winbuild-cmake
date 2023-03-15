@@ -39,7 +39,6 @@ Alternatively, you can download the builds from [here](https://sourceforge.net/p
     - libudfread
     - libunibreak
     - libass
-    - libmysofa
     - lcms2
     - lame
     - harfbuzz
