@@ -1,3 +1,6 @@
+# i remove dependencies don't need.
+# thanks https://github.com/shinchiro/mpv-winbuild-cmake
+
 # CMake-based MinGW-w64 Cross Toolchain
 
 This thing’s primary use is to build Windows binaries of mpv.
