@@ -43,7 +43,6 @@ Alternatively, you can download the builds from [here](https://sourceforge.net/p
     - lcms2
     - lame
     - harfbuzz
-    - game-music-emu
     - freetype2
     - flac
     - opus-tools
