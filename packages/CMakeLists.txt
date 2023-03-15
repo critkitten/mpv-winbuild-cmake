@@ -32,7 +32,6 @@ list(APPEND ep
     libass
     mbedtls
     libxml2
-    libvpl
     nvcodec-headers
     aom
     dav1d

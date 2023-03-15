@@ -53,7 +53,6 @@ Alternatively, you can download the builds from [here](https://sourceforge.net/p
     - curl
     - libxml2
     - nvcodec-headers
-    - libvpl
     - aom
     - dav1d
     - libplacebo (with glad)

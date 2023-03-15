@@ -16,7 +16,6 @@ ExternalProject_Add(ffmpeg
         x264
         x265-10bit
         libxml2
-        libvpl
         libopenmpt
         libplacebo
         aom
@@ -68,7 +67,7 @@ ExternalProject_Add(ffmpeg
         --disable-libmysofa
         --disable-libssh
         --enable-libsrt
-        --enable-libvpl
+        --disable-libvpl
         --disable-libjxl
         --enable-libplacebo
         --enable-cuda
