@@ -60,7 +60,7 @@ ExternalProject_Add(ffmpeg
         --enable-libmp3lame
         --enable-libopus
         --enable-libsoxr
-        --enable-libspeex
+        --disable-libspeex
         --enable-libvorbis
         --enable-libbs2b
         --enable-libvpx

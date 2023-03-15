@@ -13,7 +13,6 @@ list(APPEND ep
     ogg
     vorbis
     opus
-    speex
     libmodplug
     libvpx
     libpng
@@ -38,11 +37,9 @@ list(APPEND ep
     libxml2
     libvpl
     nvcodec-headers
-    libmysofa
     aom
     dav1d
     libwebp
-    vapoursynth
     libbs2b
     libssh
     libsdl2
@@ -51,7 +48,6 @@ list(APPEND ep
     brotli
     uavs3d
     davs2
-    angle-headers
     mujs
     spirv-headers
     spirv-tools
