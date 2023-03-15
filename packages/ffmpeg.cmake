@@ -5,7 +5,6 @@ ExternalProject_Add(ffmpeg
         gmp
         lame
         mbedtls
-        libssh
         libsrt
         libass
         libpng
