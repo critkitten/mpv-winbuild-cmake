@@ -41,7 +41,6 @@ list(APPEND ep
     dav1d
     libwebp
     libbs2b
-    libssh
     libsdl2
     libsrt
     libopenmpt

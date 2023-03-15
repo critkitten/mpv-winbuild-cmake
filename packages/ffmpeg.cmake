@@ -76,7 +76,7 @@ ExternalProject_Add(ffmpeg
         --enable-mbedtls
         --enable-libxml2
         --disable-libmysofa
-        --enable-libssh
+        --disable-libssh
         --enable-libsrt
         --enable-libvpl
         --disable-libjxl
