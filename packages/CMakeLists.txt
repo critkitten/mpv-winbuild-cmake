@@ -22,7 +22,6 @@ list(APPEND ep
     openal-soft
     fribidi
     expat
-    nettle
     freetype2
     libudfread
     harfbuzz
