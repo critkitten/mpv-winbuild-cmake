@@ -52,7 +52,7 @@ ExternalProject_Add(ffmpeg
         --enable-nonfree
         --enable-postproc
         --disable-avisynth
-        --enable-vapoursynth
+        --disable-vapoursynth
         --enable-gmp
         --enable-libass
         --disable-libbluray
